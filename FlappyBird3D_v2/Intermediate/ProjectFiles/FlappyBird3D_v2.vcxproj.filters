@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\FlappyBird3D_v2.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{B1594A8D-B187-4A46-A78D-00A23C370A0D}</UniqueIdentifier>
+			<UniqueIdentifier>{9B2E4E7F-1616-4AD8-841C-0B325B3DD8C5}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\FlappyBird3D_v2.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{69AE1A85-DD40-4358-A5AD-40BFCA04049D}</UniqueIdentifier>
+			<UniqueIdentifier>{1E9E0524-3162-47A6-AEE2-619AC815BE86}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,7 +28,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\FlappyBird3D_v2">
-			<UniqueIdentifier>{804AB57D-BD44-45AA-8C8B-4557FCA8EFEA}</UniqueIdentifier>
+			<UniqueIdentifier>{DB94DA78-A8FA-468E-BAE7-75C472AFD914}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\FlappyBird3D_v2\FlappyBird3D_v2.Build.cs">
 			<Filter>Source\FlappyBird3D_v2</Filter>
@@ -40,13 +40,13 @@
 			<Filter>Source\FlappyBird3D_v2</Filter>
 		</ClInclude >
 		<Filter Include="Source\FlappyBird3D_v2\Private">
-			<UniqueIdentifier>{1D990DF7-7696-4F39-A225-7528867D1FB5}</UniqueIdentifier>
+			<UniqueIdentifier>{957EB14C-3363-40A8-84D7-F68C231A9E96}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\FlappyBird3D_v2\Private\ObstacleSpawner_CPP.cpp">
 			<Filter>Source\FlappyBird3D_v2\Private</Filter>
 		</ClCompile >
 		<Filter Include="Source\FlappyBird3D_v2\Public">
-			<UniqueIdentifier>{15E9761C-B6E2-42F8-B19F-59EFB3C7AAA6}</UniqueIdentifier>
+			<UniqueIdentifier>{CBAB40B8-C1EA-4F5D-B831-FCFDDECB5DBE}</UniqueIdentifier>
 		</Filter>
 		<ClInclude Include="..\..\Source\FlappyBird3D_v2\Public\ObstacleSpawner_CPP.h">
 			<Filter>Source\FlappyBird3D_v2\Public</Filter>
