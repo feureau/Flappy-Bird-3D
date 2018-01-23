@@ -1,4 +1,4 @@
-// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -24,8 +24,8 @@ void EmptyLinkFunctionForGeneratedCodeObstacleSpawner_CPP() {}
 	{
 		UClass* Class = AObstacleSpawner_CPP::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
-			{ "GetDegreesBetweenPipes", (Native)&AObstacleSpawner_CPP::execGetDegreesBetweenPipes },
-			{ "TotalNumberOfPipes", (Native)&AObstacleSpawner_CPP::execTotalNumberOfPipes },
+			{ "GetDegreesBetweenPipes", &AObstacleSpawner_CPP::execGetDegreesBetweenPipes },
+			{ "TotalNumberOfPipes", &AObstacleSpawner_CPP::execTotalNumberOfPipes },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
 	}
@@ -127,7 +127,7 @@ void EmptyLinkFunctionForGeneratedCodeObstacleSpawner_CPP() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AObstacleSpawner_CPP, 2716857135);
+	IMPLEMENT_CLASS(AObstacleSpawner_CPP, 3786334106);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AObstacleSpawner_CPP(Z_Construct_UClass_AObstacleSpawner_CPP, &AObstacleSpawner_CPP::StaticClass, TEXT("/Script/FlappyBird3D_v2"), TEXT("AObstacleSpawner_CPP"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AObstacleSpawner_CPP);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

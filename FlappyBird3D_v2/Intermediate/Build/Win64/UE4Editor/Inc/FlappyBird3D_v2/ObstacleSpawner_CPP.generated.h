@@ -1,4 +1,4 @@
-// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_GET_PROPERTY(UFloatProperty,Z_Param_DegreesBetweenPipes); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		*(float*)Z_Param__Result=this->TotalNumberOfPipes(Z_Param_DegreesBetweenPipes); \
+		*(float*)Z_Param__Result=P_THIS->TotalNumberOfPipes(Z_Param_DegreesBetweenPipes); \
 		P_NATIVE_END; \
 	} \
  \
@@ -30,7 +30,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_GET_PROPERTY(UFloatProperty,Z_Param_numberOfPipesPerArc); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		*(float*)Z_Param__Result=this->GetDegreesBetweenPipes(Z_Param_platformRotationVelocity,Z_Param_numberOfPipesPerArc); \
+		*(float*)Z_Param__Result=P_THIS->GetDegreesBetweenPipes(Z_Param_platformRotationVelocity,Z_Param_numberOfPipesPerArc); \
 		P_NATIVE_END; \
 	}
 
@@ -42,7 +42,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_GET_PROPERTY(UFloatProperty,Z_Param_DegreesBetweenPipes); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		*(float*)Z_Param__Result=this->TotalNumberOfPipes(Z_Param_DegreesBetweenPipes); \
+		*(float*)Z_Param__Result=P_THIS->TotalNumberOfPipes(Z_Param_DegreesBetweenPipes); \
 		P_NATIVE_END; \
 	} \
  \
@@ -52,7 +52,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 		P_GET_PROPERTY(UFloatProperty,Z_Param_numberOfPipesPerArc); \
 		P_FINISH; \
 		P_NATIVE_BEGIN; \
-		*(float*)Z_Param__Result=this->GetDegreesBetweenPipes(Z_Param_platformRotationVelocity,Z_Param_numberOfPipesPerArc); \
+		*(float*)Z_Param__Result=P_THIS->GetDegreesBetweenPipes(Z_Param_platformRotationVelocity,Z_Param_numberOfPipesPerArc); \
 		P_NATIVE_END; \
 	}
 

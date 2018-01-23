@@ -1,4 +1,4 @@
-// Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -19,7 +19,7 @@ void EmptyLinkFunctionForGeneratedCodeFlappyBird3D_v2_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/FlappyBird3D_v2",
 				PKG_CompiledIn | 0x00000000,
-				0x13AF9D57,
+				0xC3F00178,
 				0x1AC3732A,
 				nullptr, 0,
 				METADATA_PARAMS(nullptr, 0)
