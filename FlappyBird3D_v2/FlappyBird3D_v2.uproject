@@ -13,7 +13,7 @@
 			]
 		}
 	],
-		"Plugins": [
+	"Plugins": [
 		{
 			"Name": "ActorSequence",
 			"Enabled": false
@@ -282,5 +282,4 @@
 			"Enabled": false
 		}
 	]
-
 }
